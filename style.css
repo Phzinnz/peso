@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+     background-image: url(https://portaledicase.com/wp-content/uploads/2023/04/ilustracao-pessoa-se-pesando.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+h1{
+    text-align: center;
+    margin-top: 130px;
+
+  
+}
+
+#card{
+    background-color:rgba(245, 245, 245, 0.203);
+    width: 270px;
+    height: 400px;
+    display: block;
+    margin: auto;
+    margin-top: 130px;
+    padding: 10px;
+    border-radius: 30px;
+    overflow: hidden;
+    font-size: 20px;
+}
+
+p{
+    margin: 10px;
+}
+
+#calc{
+    width: 110px;
+    height: 50px;
+    margin-left: 45px;
+}
+
+#limp{
+    width: 110px;
+    height: 50px;
+    margin-left: 45px;
+}
